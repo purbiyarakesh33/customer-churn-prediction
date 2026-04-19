@@ -1,6 +1,6 @@
 #  Customer Churn Prediction
 
-A end-to-end Machine Learning project to predict whether a telecom customer will churn (leave the service), built with Python, Scikit-learn, XGBoost, TensorFlow, and deployed as an interactive Streamlit web app.
+An end-to-end Machine Learning project to predict whether a telecom customer will churn (leave the service), built with Python, Scikit-learn, XGBoost, TensorFlow, and deployed as an interactive Streamlit web app.
 
 ---
 
