@@ -170,7 +170,7 @@ pickle
 
 ##  Live Demo
 
- [Click here to try the app](https://your-streamlit-url.streamlit.app)
+ [Click here to try the app](https://customer-churn-prediction182.streamlit.app/)
 
 ---
 
@@ -187,8 +187,8 @@ pickle
 
 **Rakesh Purbiya**
 - B.Tech Mechanical Engineering — SVNIT Surat
-- Connect on [LinkedIn](https://linkedin.com/in/rakeshpurbiya)
--  More projects on [GitHub](https://github.com/rakeshpurbiya)
+- Connect on [LinkedIn](https://www.linkedin.com/in/rakesh-purbiya-0b7091317/)
+-  More projects on [GitHub](https://github.com/purbiyarakesh33)
 
 ---
 
